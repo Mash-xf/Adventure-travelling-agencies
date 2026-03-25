@@ -1,0 +1,38 @@
+.heading{
+    text-align:center;
+    color: maroon;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.navbar{
+    text-decoration: none;
+    justify-content:space-between;
+    display: flex;
+    background-color: rgb(3, 3, 3);
+    padding:15px;
+    gap:20px; 
+}
+.navbar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bolder;
+    padding: 10px,15px;
+    transition: 0.3s;
+}
+.navbar a:hover{
+    background-color: rgb(167, 162, 162);
+    border-bottom: 1px  orangered;
+}
+img{
+    display: inline;
+    width: 300px;
+    height:300px;
+    
+}
+p{
+    font-size: larger;
+}
+h2{
+    font-size: larger;
+}
