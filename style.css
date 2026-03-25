@@ -49,3 +49,14 @@ ul{
     font-size: larger;
     color:rgb(202, 25, 25);
 }
+label{
+    font-weight: 300;
+}
+button{
+    background-color: grey;
+    font-weight: 200;
+    color: black;
+}
+button:hover{
+    background-color: rgb(253, 252, 252);
+}
